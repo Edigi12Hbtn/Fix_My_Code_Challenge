@@ -20,13 +20,13 @@ Please find here my implementation of sorting arguments in Ruby: [source code](
 
 Something is going wrong....
 
-#### 3\. User password #advanced
+#### 3\. User password
 
 Please find here my implementation of a User class in Python: [source code](https://github.com/holbertonschool/Fix-my-code-0/blob/master/3-user.py "source code")
 
 Something is going wrong....
 
-#### 4\. Double linked list #advanced
+#### 4\. Double linked list
 
 Please find here my implementation of a Double linked list in C: [source code](https://intranet.hbtn.io/rltoken/YvS8G70JQA-5q_qce9MjIg "source code")
 
